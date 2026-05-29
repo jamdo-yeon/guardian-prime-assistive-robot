@@ -6,7 +6,3 @@ Guardian Prime was a team mechanical and mechatronics design project focused on 
 
 My main contribution was the adjustable tablet holder module, designed to support different tablet sizes while keeping the mechanism simple, stable, and easy to use.
 
-## Videos
-
-- [Full Guardian Prime concept video](videos/guardian-prime-full-demo.mp4)
-- [Adjustable tablet holder demo video](videos/tablet-holder-demo.mp4)
